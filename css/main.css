@@ -1,0 +1,44 @@
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+body {
+    font-family: 'Lato', sans-serif;
+    color: #747704;
+    font-weight: 300;
+}
+
+.text-muted {
+    color: #bcbbbb;
+}
+
+.text-thin {
+    font-weight: 100;
+}
+
+.super-title {
+    font-size: 48px;
+}
+
+.thick-title {
+    font-weight: 400;
+}
+
+.pointer {
+    cursor: pointer;
+}
+
+.udacity-logo {
+    max-height: 50%;
+    width: 20%;
+    float: left;
+}
+
+hr {
+    margin-top: 5px;
+    margin-bottom: 25px;
+    border: none;
+    height: 2px;
+    background-color: #bcbbbb; /* Modern Browsers */
+}
+
+
