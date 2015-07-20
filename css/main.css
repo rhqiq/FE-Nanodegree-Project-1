@@ -34,11 +34,8 @@ body {
 }
 
 hr {
-    margin-top: 5px;
-    margin-bottom: 25px;
+    margin: 5px 0 25px;
     border: none;
     height: 2px;
     background-color: #bcbbbb; /* Modern Browsers */
 }
-
-
